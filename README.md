@@ -1,2 +1,2 @@
-# Two-Dimentional-Snails-Game-
+# Two-Dimentional-Snails-Game
 Snails Game using Arcade library
